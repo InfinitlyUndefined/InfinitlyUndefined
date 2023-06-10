@@ -1,6 +1,7 @@
 # Hi there 👋
-### Misery is the key to life, to go through misery means you are strong :D
-- Updates coming soon 
+### Gtihub has saved me from so much loss
+- Github is the best
+- Readme update coming soon
 
 <!--
 **InfinitlyUndefined/InfinitlyUndefined** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
